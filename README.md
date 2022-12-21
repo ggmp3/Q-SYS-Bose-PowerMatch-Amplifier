@@ -14,6 +14,4 @@ device is visible on Reflect/Core Manager.
  - When the PM4500N (4 channel) amp is selected the plugin will use Output 5 (Output Channel Fault) as the overall amplifier failure indicator.
  - When the PM8500N (8 channel) amp is selected the plugin will use Output 9 (Output Channel Fault) as the overall amplifier failure indicator.	
 
-![image](https://user-images.githubusercontent.com/98933978/208031392-8f12e1d9-f4cd-4e41-968b-a674767bc60c.png)
-
-
+![image](https://user-images.githubusercontent.com/98933978/209020962-7003f768-4563-4bc1-89c6-e5e681923eff.png)
